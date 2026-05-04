@@ -64,8 +64,8 @@ Don't neglect the "watercooler effect." Schedule time for informal interactions 
 
 ---
 
-### About the Author
+## Reference and Author Profile
 
-**Bernard Marr** is a world-renowned futurist, strategic advisor, and best-selling author of over 20 books. He specializes in business trends, digital transformation, and the impact of technology like AI on the future of work. Marr is a regular contributor to _Forbes_ and advises many of the world's leading organizations.
-
-**Source**: [Forbes - Mastering The Art Of Communication: 12 Tips For Success In A Digital World](https://www.forbes.com/sites/bernardmarr/2023/06/08/mastering-the-art-of-communication-12-tips-for-success-in-a-digital-world/)
+- **Source:** [Mastering The Art Of Communication: 12 Tips For Success In A Digital World](https://www.forbes.com/sites/bernardmarr/2023/06/08/mastering-the-art-of-communication-12-tips-for-success-in-a-digital-world/) - Forbes.
+- **Author:** **Bernard Marr**.
+- **Profile:** Bernard Marr is a world-renowned futurist, strategic advisor, and best-selling author of over 20 books. He specializes in business trends, digital transformation, and the impact of technology like AI on the future of work. Marr is a regular contributor to Forbes and advises many of the world's leading organizations.
